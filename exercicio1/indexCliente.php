@@ -24,7 +24,7 @@
   if ($novoCliente->consultarCliente('11122233344')){
     echo '<br> o cliente existe';
   }else{
-    echo '<br> o cliente não existe';
+    echo '<br> o cliente não existe no sistema';
   }
 
   echo '<br>';
